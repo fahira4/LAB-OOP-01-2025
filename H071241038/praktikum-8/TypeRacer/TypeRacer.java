@@ -18,11 +18,7 @@ public class TypeRacer {
 
     // Bisa diganti sesuai keinginan masing-masing
     private String[] wordsToTypeList = {
-            "Di Bikini Bottom ada Spongebob Squarepants, dia memang keren suka main drumband",
-            "Dia jadi koki masaknya krabby patty, menjalani hari hidup bersama Garry",
-            "Ayo sama-sama sebutkan nama-nama makhluk dalam sana di Bikini Bottom jaya",
-            "Namun ada juga namanya Patrick Star, walau dia cetar tapi hidupnya liar",
-            "Tinggal dalam batu tapi suka membantu, sayang hanya satu otaknya itu buntu"
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vulputate varius efficitur. Sed luctus tempus massa et mollis. Sed in purus dapibus, vehicula est quis, ullamcorper eros. Etiam sed turpis vel augue ornare pharetra. Quisque dictum luctus magna, aliquam pretium libero feugiat in. Nam suscipit eleifend ipsum ut rutrum. Pellentesque lacinia ante at risus mollis, et sodales dui posuere. Nam egestas vestibulum nisi, eu vestibulum ex sagittis ut. Aenean finibus consequat nulla, ut tristique odio tempor at. Praesent aliquet turpis"
     };
 
     public void setNewWordsToType() {
